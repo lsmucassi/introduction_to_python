@@ -3,5 +3,5 @@ def f_abs(x):
 
 print(f_abs(-5))
 print(f_abs(5))
-print(f_abs(0))
+print(f_abs(i))
 
