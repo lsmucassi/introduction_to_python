@@ -5,22 +5,22 @@ def f_all(iter):
     return True
 
 
-# all values true
+# True: all values true
 l = [1, 3, 4, 5]
-print(all(l))
+print(f_all(l))
 
-# all values false
+# False: all values false
 l = [0, False]
-print(all(l))
+print(f_all(l))
 
-# one false value
+# False: one false value
 l = [1, 3, 4, 0]
-print(all(l))
+print(f_all(l))
 
-# one true value
+# False: one true value
 l = [0, False, 5]
-print(all(l))
+print(f_all(l))
 
-# empty iterable
+# True: empty iterable
 l = []
-print(all(l))
+print(f_all(l))
