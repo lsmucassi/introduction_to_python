@@ -10,6 +10,10 @@
             IF word not.in collection:
                INSERT word IN collection
       RETURN collection
+
+    --> Another example
+
+    >>> WRITE 2**1000 as in python is just >>> 2**1000 
   ~~~
 #### "The goal of the Amoeba project was to construct an operating system for networks of computers that would present the network to the user as if it were a single machine."
 
