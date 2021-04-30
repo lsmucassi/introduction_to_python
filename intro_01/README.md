@@ -13,4 +13,4 @@
   ~~~
 #### "The goal of the Amoeba project was to construct an operating system for networks of computers that would present the network to the user as if it were a single machine."
 
-### Python reached version 1.0 in January 1994. The major new features included in this release were the functional programming tools.
+#### Python reached version 1.0 in January 1994. The major new features included in this release were the functional programming tools, it moved to version 2.0 in the year 2000 and version 3.0 was released on December 3, 2008 but currently is at 3.10 in April 10th 2021.
